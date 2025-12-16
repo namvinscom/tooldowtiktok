@@ -1,0 +1,11 @@
+# Bỏ qua file chứa cookie nhạy cảm
+cookies.txt
+
+# Bỏ qua thư mục chứa video đã tải về (nặng, không nên up lên git)
+downloads_tiktok_no_watermark/
+downloads/
+
+# Bỏ qua các file rác của hệ thống/python
+__pycache__/
+*.pyc
+.DS_Store
